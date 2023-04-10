@@ -12,7 +12,7 @@ const PageNotFound = () => {
 	return (
 		<>
 			<Head>
-				<title>{`Page Not Found - Accessible Web Dev`}</title>
+				<title>{`Page Not Found - Accessible Web Development`}</title>
 				<meta name="description" content="404 - Page Not Found" />
 			</Head>
 			<Layout headerTitle="404 - Not Found" activeNavLink={""}>
